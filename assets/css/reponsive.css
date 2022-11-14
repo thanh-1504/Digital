@@ -152,6 +152,10 @@
    }
 
    /* Testimonial Section */
+.testimonial-section {
+  margin-top: 90px;
+}
+    
 .testimonial__heading {
   font-weight: 400;
   font-size: 1.2rem;
